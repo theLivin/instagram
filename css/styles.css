@@ -1,0 +1,48 @@
+html,
+body {
+  background-color: #fff;
+  color: #636b6f;
+  font-family: 'Open Sans', 'Nunito', sans-serif;
+  font-weight: 200;
+  height: 100vh;
+  margin: 0;
+}
+
+.flex-center {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.content {
+  text-align: center;
+}
+
+h2.info {
+  font-weight: 600;
+  line-height: 20px;
+  font-size: 17px;
+  margin: 0 40px 10px;
+  color: #999;
+  text-align: center;
+}
+
+img.logo {
+  height: 30px;
+  width: 130px;
+}
+
+input {
+  background-color: rgb(247, 244, 244) !important;
+  border: 1px solid rgb(240, 237, 237) !important;
+  font-size: 12px !important;
+}
+
+.nav-item {
+  font-size: 0.9rem;
+}
+
+.form-area {
+  padding-top: 50px;
+  margin-left: 2px;
+}
